@@ -8,3 +8,4 @@ When I first started, I ran into an API error that kept the dashboard from loadi
 
 ## Navigating the Wazuh UI
 The lab guide I was following mentioned a "Modules" tab that was not visible in this version. I discovered that in Wazuh 4.x, these features are now located in the sidebar under **Endpoint Security**. I successfully located **Configuration Assessment** and **Malware Detection** there.
+![PHOTO-2026-04-01-19-53-42](https://github.com/user-attachments/assets/c4c47c72-5887-4bc2-9cde-a2cf7f80eeda)
